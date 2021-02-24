@@ -1,5 +1,5 @@
 Servern kostar: $40/månad
-Återstående kredit: $127.63 (2021/02/24)
+Återstående kredit: $132.39 (2021/02/24)
 
 2021/02/21
 -$10 Betalar för servern
@@ -13,5 +13,6 @@ Servern kostar: $40/månad
 +$1 Twittra om Vultr
 
 2021/02/24
++40kr Swish
 +40kr Swish
 +40kr Swish
